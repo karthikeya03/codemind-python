@@ -1,3 +1,2 @@
-a=int(input())
-b=3.14*a*a
-print("%.2f"%b)
+x=int(input())
+print(x*x*3.14)
